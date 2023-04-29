@@ -1,5 +1,4 @@
-# MACS 30123 Final Project: Measuring the power of extremist language in Social Media
-
+# Mm
 Please refer to the following descriptions for the final project of MACS 30123 Large Scale Computing for Social Science.
 
 Author: Shuyi Yang
