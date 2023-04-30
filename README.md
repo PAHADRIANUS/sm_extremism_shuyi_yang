@@ -19,15 +19,3 @@ The scraper further draws a random sample (N=200) from the collected dataset and
 # The analysis
 In the [analysis](https://github.com/PAHADRIANUS/sm_extremism_shuyi_yang/blob/main/scripts/extremism%201.ipynb), the mturk dataset is first treated to find the accuracy of the identifiers in predicting human-labeled extremism as well as correlations among them. Then using the summed whole dataset, regressions only using each identifier as well as one using all three at once are done. Further exploration is done to see how the sentiment score works in each topic's subset.
 
-
-
-
-Spark NLP:
-
-- SentimentDetector: https://nlp.johnsnowlabs.com/docs/en/annotators#sentimentdetector
-
-pyspark.ml:
-
-- various models: https://spark.apache.org/docs/latest/ml-classification-regression.html
-
-Dask dataframe: https://docs.dask.org/en/stable/dataframe.html
