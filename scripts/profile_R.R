@@ -7,10 +7,10 @@ install_github("pablobarbera/twitter_ideology/pkg/tweetscores")
 
 library(tweetscores)
 
-my_oauth <- list(consumer_key = "o4wfodCHqlqJEoqsRioqiGpED",
-                 consumer_secret = "T4gg0DvZpW9l7D1a2OK4f4KF0kvPrVhZvPLXRg73a4i8ChSRVx",
-                 access_token="967977225017491456-Qv2S4hmwJh8dzSjsHH9unJBc5VHLM7c",
-                 access_token_secret = "sGgokWjhRdx3GtF6oLQolFmMC1TolMrqouKiEvZeepcPK")
+my_oauth <- list(consumer_key = "b2JxrB0DUD4LVyWSBX3w3NZtW",
+                 consumer_secret = "Mg3Bnh4XnSygbNl8xT8WUHm4YmXKuHsEiSvVxmYr2B4ZcnblAx",
+                 access_token="967977225017491456-DLVxD8S3O4zL6aXQYTOaLZzDvu50FiH",
+                 access_token_secret = "3txbp9in1XML6TsuYhfOzOlXT5elZJmY7lZhc1RYyqWYD")
 
 user <- "marisol_ochoa19"
 
