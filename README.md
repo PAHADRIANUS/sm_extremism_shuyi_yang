@@ -10,7 +10,7 @@ Using the keywords paraphrased from questions determining politial identificatio
 
 - Sentiment and moral values are generated in python: the former is the [SentimentDetector](https://nlp.johnsnowlabs.com/docs/en/annotators#sentimentdetector) package  to pick up the negative score, and the latter is the term frequency of words based on the [Moral Foundations Dictionary](https://moralfoundations.org/wp-content/uploads/files/downloads/moral%20foundations%20dictionary.dic).
 
-- The profile score is generated using a R script based on packages provied by Pablo Babera in the project [Twitter Ideology](https://github.com/pablobarbera/twitter_ideology)
+- The profile score is generated using a R script based on packages provied by Pablo Babera in the project [Twitter Ideology](https://github.com/pablobarbera/twitter_ideology).
 
 # Preparation for Amazon Mechanical Turk survey 
 
